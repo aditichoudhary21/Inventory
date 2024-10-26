@@ -1,0 +1,26 @@
+.add_button {
+    text-align: right;
+}
+
+.tr_color {
+    color: white;
+    background-color: #D83830;
+}
+.custom-navbar {
+    background-color: #CD325A; /* Replace with your desired color */
+}
+
+/* App.css */
+.custom-btn {
+    background-color: #309FCF; /* Replace with your desired color */
+    color: white; /* Set text color to white for better contrast */
+    border: none; /* Remove default border */
+}
+.table-striped > tbody > tr:nth-of-type(odd) {
+    background-color: #efe3d6a2; /* Replace with your desired color */
+}
+
+.custom-row {
+    background-color: #CD325A; /* Replace with your desired background color */
+    color: #ffffff; /* Set text color for better readability */
+}

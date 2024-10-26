@@ -1,0 +1,32 @@
+/* Home.css */
+
+.home-container {
+    background-color: #ffffff; /* Light background color */
+    padding: 50px; /* Ample padding for spacing */
+}
+
+h2 {
+    color: #2c3e50; /* Darker color for the heading */
+    font-size: 2.5rem; /* Larger font size */
+    margin-bottom: 20px; /* Space below heading */
+}
+
+p {
+    color: #34495e; /* Darker grey for the paragraph */
+    font-size: 1.2rem; /* Increased font size */
+    margin-bottom: 30px; /* Space below paragraph */
+}
+
+.btn-primary {
+    background-color: #309FCF; /* Bootstrap primary color */
+    border: none; /* Remove border */
+    padding: 12px 30px; /* Increase padding for a better button */
+    font-size: 1.1rem; /* Slightly larger font size */
+}
+.custombtn{
+    background-color: #309FCF; /* Replace with your desired color */
+    color: white; /* Set text color to white for better contrast */
+    border: none; /* Remove default border */
+    padding: 12px 30px; /* Increase padding for a better button */
+    font-size: 1.1rem; /* Slightly larger font size */
+}
